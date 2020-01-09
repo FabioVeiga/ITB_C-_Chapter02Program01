@@ -1,0 +1,16 @@
+D:\IBT\C#\2 - Class\Chapter02Program01\bin\Debug\Chapter02Program01.exe.config
+D:\IBT\C#\2 - Class\Chapter02Program01\bin\Debug\Chapter02Program01.exe
+D:\IBT\C#\2 - Class\Chapter02Program01\bin\Debug\Chapter02Program01.pdb
+D:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.csprojAssemblyReference.cache
+D:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.csproj.CoreCompileInputs.cache
+D:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.exe
+D:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.pdb
+E:\IBT\C#\2 - Class\Chapter02Program01\bin\Debug\Chapter02Program01.exe.config
+E:\IBT\C#\2 - Class\Chapter02Program01\bin\Debug\Chapter02Program01.exe
+E:\IBT\C#\2 - Class\Chapter02Program01\bin\Debug\Chapter02Program01.pdb
+E:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.csprojAssemblyReference.cache
+E:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.frmMain.resources
+E:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.csproj.GenerateResource.cache
+E:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.csproj.CoreCompileInputs.cache
+E:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.exe
+E:\IBT\C#\2 - Class\Chapter02Program01\obj\Debug\Chapter02Program01.pdb
